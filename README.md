@@ -17,7 +17,7 @@ allprojects {
 ```
 in app module build.gradle
 ```groovy
-implementation 'com.bugsavvy:bugsavvy:1.0.0-alpha01'
+implementation 'com.bugsavvy:bugsavvy:1.0.0-alpha02'
 ```
 
 
