@@ -47,7 +47,7 @@ BugSavvyLogger.i("tag", "message")
 ```
 
 ## screenshots
-<img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/1.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/2.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/3.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/4.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/5.png" width="150">
+<img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/1.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/2.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/3.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/4.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/5.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/6.png" width="150">
 
 ## notes
 - app has to be migrated to androidx if not migrated already.
