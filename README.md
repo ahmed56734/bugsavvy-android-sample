@@ -17,7 +17,7 @@ allprojects {
 ```
 in app module build.gradle
 ```groovy
-implementation 'com.bugsavvy:bugsavvy:1.0.0-alpha07'
+implementation 'com.bugsavvy:bugsavvy:1.0.0-alpha24'
 ```
 
 
@@ -52,3 +52,6 @@ BugSavvyLogger.i("tag", "message")
 ## notes
 - app has to be migrated to androidx if not migrated already.
 - sample app code will be published soon.
+
+## app using bugsavvy in production
+- [MobiKora](https://mobikora.tv/)
