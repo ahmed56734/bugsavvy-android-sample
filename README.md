@@ -37,7 +37,7 @@ class App : Application(){
 }
 ```
 
-##### invoke
+##### Invokation
 ```kotlin
 BugSavvy.invoke()
 ```
@@ -46,12 +46,12 @@ BugSavvy.invoke()
 BugSavvyLogger.i("tag", "message")
 ```
 
-## screenshots
+## Screenshots
 <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/1.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/2.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/3.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/4.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/5.png" width="150"> <img src="https://github.com/ahmed56734/bugsavvy-android-sample/blob/master/screenshots/6.png" width="150">
 
-## notes
+## Notes
 - app has to be migrated to androidx if not migrated already.
 - sample app code will be published soon.
 
-## app using bugsavvy in production
+## Apps using BugSavvy in production
 - [MobiKora](https://mobikora.tv/)
